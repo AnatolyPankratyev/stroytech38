@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93ed0a5c-31b9-4abf-a0b1-8b5d91131b69" name="stroytech" url="http://37.140.192.74">
+        <fileTransfer host="37.140.192.74" port="21" rootFolder="/www/stroytech38.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
